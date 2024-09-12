@@ -2,9 +2,7 @@
 - 👀 I have a wide range of interests, including but not limited to Software Engineering, Data Science, Machine Learning, and Signal Processing.
 - ⚡ Fun fact: Constantly expanding my toolkit. 😄
 
-
-### 🧰 Languages and Tools
-
+<h3 align="left">Languages and Tools</h3>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="Maven" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
